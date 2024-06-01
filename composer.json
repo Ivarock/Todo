@@ -1,0 +1,11 @@
+{
+  "require": {
+    "nesbot/carbon": "^2.72.3",
+    "symfony/console": "^5.4.39"
+  },
+  "autoload": {
+    "psr-4": {
+      "Todo\\": "src/"
+    }
+  }
+}
